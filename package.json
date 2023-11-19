@@ -1,0 +1,23 @@
+{
+  "name": "asvip-test",
+  "version": "1.0.0",
+  "description": "脚手架练习",
+  "main": "index.js",
+  "bin": {
+    "asvip-test": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanglei028/asvip-test.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/wanglei028/asvip-test/issues"
+  },
+  "homepage": "https://github.com/wanglei028/asvip-test#readme"
+}
