@@ -1,10 +1,10 @@
 {
   "name": "asvip-test",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "脚手架练习",
   "main": "index.js",
   "bin": {
-    "asvip-test": "index.js"
+    "asvip-test": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
